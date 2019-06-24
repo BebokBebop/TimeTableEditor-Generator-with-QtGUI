@@ -7,5 +7,7 @@
         <file>windowSetFilter.ui</file>
         <file>windowChooseAction.ui</file>
         <file>windowFailDlg.ui</file>
+        <file>Roboto-Regular.ttf</file>
+        <file>input.txt</file>
     </qresource>
 </RCC>
