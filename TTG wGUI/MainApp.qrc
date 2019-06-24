@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/MainApp">
+        <file>windowAdd.ui</file>
+        <file>windowAddSubject.ui</file>
+        <file>windowAddTeacher.ui</file>
+        <file>windowAddGroup.ui</file>
+        <file>windowSetFilter.ui</file>
+        <file>windowChooseAction.ui</file>
+        <file>windowFailDlg.ui</file>
+    </qresource>
+</RCC>
