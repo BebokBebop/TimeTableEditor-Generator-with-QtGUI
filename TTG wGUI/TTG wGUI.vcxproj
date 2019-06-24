@@ -159,6 +159,12 @@
     <ClInclude Include="TableDrawing.h" />
     <ClInclude Include="TableGen.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Font Include="Roboto-Regular.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
     <Import Project="$(QtMsBuild)\qt.targets" />
